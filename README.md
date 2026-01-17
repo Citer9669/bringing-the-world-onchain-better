@@ -1,1 +1,2 @@
-# bringing-the-world-onchain-better
+# .github
+bringing the great world onchain
